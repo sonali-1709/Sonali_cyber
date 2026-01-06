@@ -17,7 +17,7 @@
   - Security posture of the organization
 
   <center>
-  <img src="images/107.png" alt="steps for hacking" width="600">
+  <img src="images/107.jpeg" alt="steps for hacking" width="600">
 </center>
 
 
@@ -181,7 +181,7 @@ Footprinting is classified into the following two types:
 ping <target>
 
 <center>
-  <img src="images/109.png" alt="steps for hacking" width="600">
+  <img src="images/109.jpeg" alt="steps for hacking" width="600">
 </center>
 
 -
@@ -192,7 +192,7 @@ ping <target>
 
 
 <center>
-  <img src="images/112.png" alt="steps for hacking" width="600">
+  <img src="images/112.jpeg" alt="steps for hacking" width="600">
 </center>
 
 - Identifies technologies used on a website.
@@ -205,14 +205,14 @@ ping <target>
 - Used in website footprinting.
 
 <center>
-  <img src="images/113.png" alt="steps for hacking" width="600">
+  <img src="images/113.jpeg" alt="steps for hacking" width="600">
 </center>
 
   - we can see the detals of technologies used in a particular website.
   - for example i have taken microsoft.com
 
   <center>
-  <img src="images/114.png" alt="steps for hacking" width="600">
+  <img src="images/114.jpeg" alt="steps for hacking" width="600">
 </center>
 
 
@@ -231,7 +231,7 @@ ping <target>
   - Registration and expiration dates
   - Administrative contacts 
   <center>
-  <img src="images/115.png" alt="steps for hacking" width="600">
+  <img src="images/115.jpeg" alt="steps for hacking" width="600">
 </center>
 
   - we can use whois command in terminal also
@@ -239,7 +239,7 @@ ping <target>
   - we can see the database details in terminal
 
   <center>
-  <img src="images/116.png" alt="steps for hacking" width="600">
+  <img src="images/116.jpeg" alt="steps for hacking" width="600">
 </center>
 
   
@@ -259,7 +259,7 @@ ping <target>
 ### 4. Fake Name Generator
 
 <center>
-  <img src="images/117.png" alt="steps for hacking" width="600">
+  <img src="images/117.jpeg" alt="steps for hacking" width="600">
 </center> 
 
 - Generates synthetic personal identities.
@@ -272,7 +272,7 @@ ping <target>
 
 
 <center>
-  <img src="images/118.png" alt="steps for hacking" width="600">
+  <img src="images/118.jpeg" alt="steps for hacking" width="600">
 </center>
 ---
 
@@ -282,7 +282,7 @@ ping <target>
 - Demonstrates digital identity simulation.
 
 <center>
-  <img src="images/119.png" alt="steps for hacking" width="600">
+  <img src="images/119.jpeg" alt="steps for hacking" width="600">
 </center>
 
 ---
@@ -297,7 +297,7 @@ ping <target>
 - Demonstrates information leakage through interaction.
 
 <center>
-  <img src="images/120.png" alt="steps for hacking" width="600">
+  <img src="images/120.jpeg" alt="steps for hacking" width="600">
 </center>
 
 
@@ -324,7 +324,7 @@ ping <target>
 - Demonstrates privacy risks of public data exposure.
 
 <center>
-  <img src="images/121.png" alt="steps for hacking" width="600">
+  <img src="images/121.jpeg" alt="steps for hacking" width="600">
 </center>
 
 ---
@@ -335,7 +335,7 @@ ping <target>
 ### Step 1: Search for hound in the browser
 
 <center>
-  <img src="images/122.png" alt="steps for hacking" width="600">
+  <img src="images/122.jpeg" alt="steps for hacking" width="600">
 </center>
 
 - Open **Terminal** from the Applications menu  
