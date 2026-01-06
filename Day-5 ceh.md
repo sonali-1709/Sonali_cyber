@@ -29,7 +29,7 @@ Footprinting is classified into the following two types:
 
 
 <center>
-  <img src="images/108.jpg" alt="steps for hacking" width="600">
+  <img src="images/108.jpeg" alt="steps for hacking" width="600">
 </center>
 
 
