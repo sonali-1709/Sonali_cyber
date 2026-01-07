@@ -23,9 +23,6 @@ This session focuses on how **hidden data inside files, documents, and online se
 - Software and operating system used  
 - GPS coordinates (in images taken by mobile phones or cameras)  
 - Device, camera, or smartphone model  
-<center>
-  <img src="images/108.png" alt="steps for hacking" width="600">
-</center>
 
 ## Metadata Remover
 
