@@ -12,7 +12,7 @@ This session focuses on how **hidden data inside files, documents, and online se
 
 **Metadata** refers to *data about data*. It is automatically generated information stored within digital files such as images, PDFs, Word documents, videos, and spreadsheets.
 <center>
-  <img src="images/what-is-Metadata.png" alt="steps for hacking" width="600">
+  <img src="images/What-is-Metadata.png" alt="steps for hacking" width="600">
 </center>
 
 
